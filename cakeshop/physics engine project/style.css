@@ -1,0 +1,17 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+/*.project{
+  border: rgb(150, 70, 70);
+  background-color: burlywood;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  position: relative;
+  color: aquamarine;
+  margin-left: 100px;
+}*/
